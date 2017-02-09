@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- simple sliding menu-->
+    <item name="id_simple_menu" type="id"/>
+    <item name="id_simple_content" type="id"/>
+    <item name="id_title" type="id"/>
+    <item name="id_content" type="id"/>
+    <item name="id_desc" type="id"/>
+
+</resources>
